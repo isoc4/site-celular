@@ -60,5 +60,5 @@ main{
 #sociais > a > img:hover{
     border: 3.9px solid mediumslateblue;
     transform: translate(-4px, -4px);
-    transition: transform 1s, border 800ms;
+    transition: transform 500ms, border 800ms;
 }
