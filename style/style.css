@@ -42,3 +42,23 @@ main{
     width: 267px;
     height: 470px;
 }
+
+#sociais{
+    position: absolute;
+    top: 30%;
+    left: 83%;
+}
+
+#sociais > a > img{
+    margin: 5px;
+    width: 60px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.520);
+    box-sizing: border-box;
+}
+
+#sociais > a > img:hover{
+    border: 3.9px solid mediumslateblue;
+    transform: translate(-4px, -4px);
+    transition: transform 1s, border 800ms;
+}
