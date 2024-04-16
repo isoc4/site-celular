@@ -11,8 +11,7 @@ html, body{
 }
 
 body{
-    background-color: green;
-    background-image: url('/imagem/fundo-madeira.jpg');
+    background-image: url('imagem/fundo-madeira.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -29,7 +28,7 @@ main{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    background-image: url('/imagem/frame-iphone.png');
+    background-image: url('imagem/frame-iphone.png');
     background-repeat: no-repeat;
     height: 627px;
     width: 311px;
@@ -42,7 +41,7 @@ main{
     transform: translate(-50%, -53%);
 
     margin: auto;
-    background-image: url('/imagem/tela-home.jpg');
+    background-image: url('imagem/tela-home.jpg');
     background-size: cover;
     height: 75%;
     width: 267px;
